@@ -3,7 +3,7 @@
 ## 안녕하세요 신입개발자로 향하는 김다빈입니다
 
 
-**SKILLES**
+**SKILLS**
 
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
