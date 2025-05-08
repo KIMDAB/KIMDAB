@@ -23,8 +23,6 @@
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://shinuu.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](kdabin4450@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](shin__007@naver.com)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMDAB&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMDAB&show_icons=true&theme=cobalt)
